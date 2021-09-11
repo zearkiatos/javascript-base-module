@@ -1,0 +1,20 @@
+{
+  "name": "javascript-base-module",
+  "version": "1.0.0",
+  "description": "`npm init` => For initialization project with the params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/javascript-base-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/javascript-base-module/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/javascript-base-module#readme"
+}
