@@ -12,3 +12,7 @@ npm set init.licence "MIT"
 `npm list -g --depth 0` => List all global installed package
 
 `npm install eslint --optional` => Install optional package
+
+`npm install react --dry-run` => Simulate Installation of react
+
+`npm install webpack -f` => Force package instalation in this case it is install webpack with force
