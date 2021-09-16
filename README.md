@@ -31,6 +31,8 @@ npm set init.licence "MIT"
 
 `npm uninstall <name of the package> --no-save` => Uninstall the package but do not delete the package from package.json
 
+`npm cache clean --force` => Force to delete cache of package
+
 Recomended package of npm -> 
 Name: npm
 Id: eg2.vscode-npm-script
