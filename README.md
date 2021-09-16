@@ -33,6 +33,10 @@ npm set init.licence "MIT"
 
 `npm cache clean --force` => Force to delete cache of package
 
+`npm audit` => Let us audit our packages
+
+`npm audit fix` => Let us to audit and fix our packages
+
 Recomended package of npm -> 
 Name: npm
 Id: eg2.vscode-npm-script
